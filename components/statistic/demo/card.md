@@ -25,7 +25,7 @@ ReactDOM.render(
           <Statistic
             title="Active"
             value={11.28}
-            precision={2}
+            precision={0}
             valueStyle={{ color: '#3f8600' }}
             prefix={<ArrowUpOutlined />}
             suffix="%"
